@@ -2,6 +2,10 @@
 
 <img src="robot_pick_and_place.gif" width="900" height="450" />
 
+### Full Demo Link
+
+[![Watch the video](https://img.youtube.com/vi/NvVBQbD16_E/maxresdefault.jpg)](https://youtu.be/NvVBQbD16_E)
+
 Welcome to the Robotic Manipulation project! This project demonstrates an advanced robotic pick and place system leveraging Deep Learning techniques, Simulation data, and Differential Inverse Kinematics Controller. The goal is to achieve precise object detection, segmentation, and manipulation in a simulated environment.
 
 ## Project Overview
@@ -19,4 +23,5 @@ This project involves the following key components:
 - **3D Point Cloud Filtering**: Processes and filters point clouds to identify and manipulate specified objects.
 - **Inverse Kinematics Controller**: Utilizes IK for smooth and precise robotic arm movements.
 - **Simulation Environment**: All operations are performed within the Drake simulation software.
+
 
