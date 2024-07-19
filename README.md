@@ -1,6 +1,6 @@
 # Robotic Manipulation with Deep Learning
 
-<img src="robot_pick_and_place.gif" width="40" height="40" />
+<img src="robot_pick_and_place.gif" width="400" height="200" />
 
 Welcome to the Robotic Manipulation project! This project demonstrates an advanced robotic pick and place system leveraging Deep Learning techniques, Simulation data, and Differential Inverse Kinematics Controller. The goal is to achieve precise object detection, segmentation, and manipulation in a simulated environment.
 
@@ -10,7 +10,7 @@ This project involves the following key components:
 - **Deep Learning**: Utilizes Mask R-CNN for object segmentation.
 - **Simulation Data**: Uses simulation datasets for training and testing the model.
 - **3D Transformations**: Handles 3D transformations and point cloud filtering.
-- **Differential Inverse Kinematics**: Implements IK for precise robotic movements.
+- **Differential Inverse Kinematics**: Implements IK for robotic movements.
 - **Antipodal Grasps**: Ensures secure and efficient object grasping.
 
 ### Key Features
