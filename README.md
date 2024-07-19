@@ -1,6 +1,6 @@
 # Robotic Manipulation with Deep Learning
 
-<img src="robot_pick_and_place.gif" width="400" height="200" />
+<img src="robot_pick_and_place.gif" width="900" height="550" />
 
 Welcome to the Robotic Manipulation project! This project demonstrates an advanced robotic pick and place system leveraging Deep Learning techniques, Simulation data, and Differential Inverse Kinematics Controller. The goal is to achieve precise object detection, segmentation, and manipulation in a simulated environment.
 
